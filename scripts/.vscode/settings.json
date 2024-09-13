@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hoangdang2311/agv_ws/devel/lib/python3/dist-packages",
+        "/home/hoangdang2311/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hoangdang2311/agv_ws/devel/lib/python3/dist-packages",
+        "/home/hoangdang2311/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

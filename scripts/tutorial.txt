@@ -1,0 +1,7 @@
+roscore
+
+sudo chmod a+rw /dev/ttyUSB0
+dmesg | grep tty
+rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB0 _baud:=57600
+
+(chmod +x <tenfile>.py)
