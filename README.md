@@ -6,6 +6,8 @@
 # Start roscore
 roscore
 
+ls /dev/tty*
+
 # Change permissions for the device
 sudo chmod a+rw /dev/ttyUSB0
 
